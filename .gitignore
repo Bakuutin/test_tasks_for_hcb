@@ -3,3 +3,4 @@ static/*
 !static/voter.js
 !static/style.css
 node_modules/*
+*.jmx
