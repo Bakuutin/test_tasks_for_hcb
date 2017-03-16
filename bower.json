@@ -1,0 +1,17 @@
+{
+  "name": "voter",
+  "version": "0.0.1",
+  "authors": ["bakuutin"],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "1.9.1"
+  }
+}

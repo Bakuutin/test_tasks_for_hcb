@@ -1,0 +1,9 @@
+{
+  "name": "voter",
+  "version": "0.0.1",
+  "authors": ["bakuutin"],
+  "scripts": {"bower": "node_modules/bower/bin/bower"},
+  "dependencies": {
+    "bower": "^1.7.9"
+  }
+}
